@@ -1,0 +1,4 @@
+﻿  main.cpp
+  LINK : C:\Users\ATIVBOOK\Desktop\Maiden\Powerslave\Debug\Powerslave.exe not found or not built by the last incremental link; performing full link
+MSVCRTD.lib(crtexew.obj) : error LNK2019: unresolved external symbol _WinMain@16 referenced in function ___tmainCRTStartup
+C:\Users\ATIVBOOK\Desktop\Maiden\Powerslave\Debug\Powerslave.exe : fatal error LNK1120: 1 unresolved externals

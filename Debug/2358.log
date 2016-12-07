@@ -1,0 +1,48 @@
+﻿  main.cpp
+c:\users\ativbook\desktop\2358\2358\main.cpp(357): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+c:\users\ativbook\desktop\2358\2358\main.cpp(359): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(253) : see declaration of 'fscanf'
+c:\users\ativbook\desktop\2358\2358\main.cpp(1067): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(202): warning C4101: 'stage3' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(209): warning C4101: 'stage10' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(201): warning C4101: 'stage2' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(200): warning C4101: 'stage1' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(208): warning C4101: 'stage9' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(205): warning C4101: 'stage6' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(203): warning C4101: 'stage4' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(207): warning C4101: 'stage8' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(206): warning C4101: 'stage7' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(204): warning C4101: 'stage5' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(1993): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2048): warning C4101: 'curitem' : unreferenced local variable
+c:\users\ativbook\desktop\2358\2358\main.cpp(2106): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2109): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2113): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2114): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2117): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2121): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2122): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2126): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2180): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+c:\users\ativbook\desktop\2358\2358\main.cpp(2211): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+  LINK : C:\Users\ATIVBOOK\Desktop\2358\Debug\2358.exe not found or not built by the last incremental link; performing full link
+  2358.vcxproj -> C:\Users\ATIVBOOK\Desktop\2358\Debug\2358.exe
